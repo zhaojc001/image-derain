@@ -1,0 +1,2 @@
+*.pyd linguist-language=python
+*.so linguist-language=python
